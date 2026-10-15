@@ -1,4 +1,4 @@
-# 🛒 TechNova Store – E-commerce Backend & Assistente Virtual
+# TechNova Store – E-commerce Backend & Assistente Virtual
 
 Projeto desenvolvido para a disciplina de **Linguagem de Programação III** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** da **Faculdade Municipal de Palhoça (FMP)**, sob orientação do Prof. Rafael N. R.
 
@@ -6,7 +6,7 @@ O objetivo deste projeto é aplicar na prática os conceitos de **Programação 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.12+**
 * **Django 5.x** (Framework Web, ORM, Migrations, Admin & Serializers)
